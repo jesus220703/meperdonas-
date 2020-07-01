@@ -17,6 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('
-perdóname, si te hice sentir mal quiero seguir hablando contigo aunque ya no sea de amor pero quiero seguir hablando contigo porque eres importante para mi y pues no quiero dejar de hablarte ni perder tu amistad ni perderte a ti, y ya fuera de todo esto gracias por todo lo que hiciste por mi aprecio mucho esto y quiero que sepas que esto nunca lo voy a olvidar, graciaas');
+    alert('perdóname, si te hice sentir mal quiero seguir hablando contigo aunque ya no sea de amor pero quiero seguir hablando contigo porque eres importante para mi y pues no quiero dejar de hablarte ni perder tu amistad ni perderte a ti, y ya fuera de todo esto gracias por todo lo que hiciste por mi aprecio mucho esto y quiero que sepas que esto nunca lo voy a olvidar, graciaas');
 });
